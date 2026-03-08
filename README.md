@@ -3,7 +3,7 @@
 ## 😁😁😁😁😁
 
 Hey! I am a Systems Software Engineer, particularly interested in Computer Science fundamentals and C/C++ but i have tried and loved every language (Javascript, Python, C#)
-Check out my [LinkedIn Profile](https://www.linkedin.com/in/matheus-cardoso-dev/](https://www.linkedin.com/in/lucaspedrosax86/)) for more professional information.
+Check out my [LinkedIn Profile]((https://www.linkedin.com/in/lucaspedrosax86/)) for more professional information.
 
 ---
 
