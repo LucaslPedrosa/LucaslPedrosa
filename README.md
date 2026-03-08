@@ -13,7 +13,7 @@ I currently work at [Really Low Level Systems](https://www.youtube.com/watch?v=a
 
 I have a background on Competitive Programming from university days, meaning that I am a big fan of Algorithms and Data Structures, and most recently I've been studying Computational Thinking and Data Science (through [MIT courses](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/resources/lecture-1-introduction-and-optimization-problems/)).
 
-I am also a big fan of [Sam Kean's writing]([https://www.brandonsanderson.com/pages/the-stormlight-archive-series](https://www.amazon.com.br/Disappearing-Spoon-Sam-Kean/dp/0857520261)), and am currently destroying noobs on [Valorant](https://store.steampowered.com/app/881100/Noita/).
+I am also a big fan of [Sam Kean's writing](https://www.amazon.com.br/Disappearing-Spoon-Sam-Kean/dp/0857520261)), and am currently destroying noobs on [Valorant](https://tracker.gg/valorant/profile/riot/Viddernas%23br1/).
 
 I may talk more 😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨
 
