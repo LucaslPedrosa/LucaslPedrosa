@@ -2,7 +2,7 @@
 
 ## 😁😁😁😁😁
 
-Hey! I am a Systems Software Engineer, particularly interested in Computer Science fundamentals and C/C++ but i have tried and loved every language (Javascript, Python, C#)
+Hey! I am a Systems Software Engineer, particularly interested in Computer Science fundamentals and C/C++ but i have tried and loved every language (Java, Javascript, Python, C#, Rust, GO, even COBOL!)
 Check out my [LinkedIn Profile](https://www.linkedin.com/in/lucaspedrosax86/) for more professional information.
 
 ---
