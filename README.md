@@ -15,9 +15,8 @@ I have a background on Competitive Programming from university days, meaning tha
 
 I am also a big fan of [Sam Kean's writing](https://www.amazon.com.br/Disappearing-Spoon-Sam-Kean/dp/0857520261), and am currently reading some book but its a secret and i will never tell you.
 
-"But why do you program in C++ when it is a bad language with terrible syntax, bla bla bla..."
 
-Look, here is a picture of Bjarne Stroustrup sitting on a chair with some aesthetic monitors, so think for a moment about what you just said, okay?
+here is a picture of Bjarne Stroustrup sitting on a chair
 
 ![BjarneStroustrup](https://github.com/user-attachments/assets/ed366ea6-208c-4804-afec-b968171e4943)
 
